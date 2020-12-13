@@ -14,7 +14,7 @@
 
 ## Work experience: 
 **Analyst Soft. Belarus. Brest, 2012–2020**  
-__Senior BackEnd .NET developer_  
+_Senior BackEnd .NET developer_  
 I created a large number of software systems using various types of architecture: monolith, microservices and also distributed heterogeneous systems.
 But the main area of activity is the development of analytical systems for conducting marketing research, research, targeting multi-million target audiences in vk.com, the development of systems for monitoring the activity of competitive companies on the Internet, monitoring dozens of sites (many of these sites contain millions of pages of information).
 
